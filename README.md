@@ -1,8 +1,7 @@
 # belly-button-challenge
 
 # Dashboard
-
-This is an interactive dashboard for exploring bacterial cultures found in human belly buttons. The project uses D3.js and Plotly to build dynamic charts.
+This interactive dashboard can be used for exploring bacterial cultures found in human belly buttons. The project uses D3.js and Plotly to build dynamic charts.
 
 ## Features
 - Metadata panel displaying demographic information
@@ -15,11 +14,10 @@ This is an interactive dashboard for exploring bacterial cultures found in human
 - GitHub Pages for deployment
 
 ## How to Use
-1. Select a sample ID from the dropdown menu.
+1. Select a sample ID from the dropdown menu. (on the left side of the page)
 2. View the metadata and visualizations for the selected sample.
 
 ## Deployment
-The app is live at: [https://YOUR_USERNAME.github.io/YOUR_REPOSITORY_NAME](https://YOUR_USERNAME.github.io/YOUR_REPOSITORY_NAME)
-
+The app is live at: [SvetlanaKachina/belly-button-challenge]
 ## Repository
-You can find the code at: [GitHub Repository](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME)
+You can find the code at: [belly-button-challenge/Starter_Code/static/js/app.js at main · SvetlanaKachina/belly-button-challenge]
